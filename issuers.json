@@ -1,18 +1,14 @@
 {
-    "created": "",
-    "last_update": "",
     "issuers": [
         {
-            "type": "Example",
-            "id": "did:web:identifier.me:example",
-            "name": "Example Issuer"
+            "id": "did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch",
+            "url": "https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure",
+            "name": "Director of Petroleum Lands"
         },
         {
-            "type": "Director",
-            "id": "did:web:identifier.me:director-of-petroleum-lands",
-            "url": "https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure",
-            "name": "Director of Petroleum Lands",
-            "ministry": "Natural Gas & Oil"
+            "id": "did:web:bcgov.github.io:bc-vcpedia:applications:major-mines-office",
+            "url": "https://mines.nrs.gov.bc.ca/",
+            "name": "Chief Permitting Officer"
         }
     ]
 }
