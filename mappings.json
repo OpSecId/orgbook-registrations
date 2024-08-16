@@ -1,0 +1,44 @@
+{
+  "mappings": [
+    {
+      "type": "effective_date",
+      "name": "validFrom",
+      "path": "$.validFrom"
+    },
+    {
+      "type": "expiry_date",
+      "name": "validUntil",
+      "path": "$.validUntil"
+    },
+    {
+      "type": "credential_id",
+      "name": "credentialId",
+      "path": "$.id"
+    },
+    {
+      "type": "credential_name",
+      "name": "credentialName",
+      "path": "$.name"
+    },
+    {
+      "type": "credential_description",
+      "name": "credentialDescription",
+      "path": "$.description"
+    },
+    {
+      "type": "issuer_id",
+      "name": "issuerId",
+      "path": "$.issuer.id"
+    },
+    {
+      "type": "issuer_name",
+      "name": "issuerName",
+      "path": "$.issuer.name"
+    },
+    {
+      "type": "issuer_description",
+      "name": "issuerDescription",
+      "path": "$.issuer.description"
+    }
+  ]
+}
