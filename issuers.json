@@ -1,7 +1,7 @@
 {
     "issuers": [
         {
-            "id": "did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch",
+            "id": "did:web:untp.traceability.site:parties:regulators:director-of-petroleum-lands",
             "url": "https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure",
             "name": "Director of Petroleum Lands"
         },
